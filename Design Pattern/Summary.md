@@ -33,7 +33,7 @@ https://www.cnblogs.com/weihanli/p/13518350.html#%E5%BB%BA%E9%80%A0%E8%80%85%E6%
 10. 备忘录模式
 11. 解释器模式
 
-# 面向对象设计原则
+# 面向对象设计原则(SOLID)
 1.单一职责原则(SRP)
 2.开放关闭原则(OCP)
 3.里氏代替原则(LSP)

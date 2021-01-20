@@ -1,7 +1,5 @@
 # 使用Vagrant和VirtualBox在本地搭建分布式的Kubernetes集群和Istio Service Mesh
 
-C:\Users\2294765\Desktop\MyWork\Notes
-
 [Setting up a Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox - English](README.md)
 
 当我们需要在本地开发时，更希望能够有一个开箱即用又可以方便定制的分布式开发环境，这样才能对Kubernetes本身和应用进行更好的测试。现在我们使用[Vagrant](https://www.vagrantup.com/)和[VirtualBox](https://www.virtualbox.org/wiki/Downloads)来创建一个这样的环境。

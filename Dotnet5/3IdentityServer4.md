@@ -32,9 +32,23 @@ HMACSHA256(
 
 * 1.Implicit：简化模式；直接通过浏览器的链接跳转申请令牌。
 * 2.Client Credentials：客户端凭证模式；该方法通常用于服务器之间的通讯；该模式仅发生在Client与Identity Server之间。
-* 3.Resource Owner Password Credentials：密码模式。
+* 3.Resource Owner Password Credentials：密码模式。(终端用户到受保护的资源之间)
 * 4.Authorization Code：授权码模式；
 
 ## IdentityServer4是为ASP.NET CORE量身定制的实现了OpenId Connect和OAuth2.0协议的认证授权中间件。
 
 <img src="C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20201216110304560.png" alt="image-20201216110304560" style="zoom:50%;" />
+
+# Get Start With IndentityServer 4
+https://www.scottbrady91.com/Identity-Server/Getting-Started-with-IdentityServer-4
+
+![image-20210111102442331](C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20210111102442331.png)
+
+https://github.com/IdentityServer/IdentityServer4.Demo.git
+
+
+
+https://www.cnblogs.com/Zing/p/13366318.html
+
+
+

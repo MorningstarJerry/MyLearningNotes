@@ -1,0 +1,13 @@
+# ELK（ElasticSearch + Logstash + Kibana）
+
+![image-20210114113729220](C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20210114113729220.png)
+
+https://www.tianmaying.com/tutorial/elastic-logstash-kibana
+
+http://localhost:51510/app/kibana
+
+![image-20210114113658121](C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20210114113658121.png)
+
+ELK 开源日志组合 收集、查询、显示，正对应logstash、elasticsearch、kibana的功能
+
+Splunk 商业收费
